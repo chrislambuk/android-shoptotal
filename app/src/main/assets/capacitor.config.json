@@ -1,0 +1,6 @@
+{
+	"appId": "com.arqmedia.shopcalc",
+	"appName": "Shop Total",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
